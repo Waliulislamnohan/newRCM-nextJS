@@ -145,4 +145,5 @@
 		border-radius: 2ch;
 		margin-top:15px;
 		border-color: transparent;
+		z-index: 1;
 }
