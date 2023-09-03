@@ -42,7 +42,7 @@ export default function Home() {
             <p>Longitude: {gpsData.long}</p>
             
             <h2>Gyro Data:</h2>
-            <p>Good</p>
+            <p>Good / Bad</p>
           </div>
         </div>
 
